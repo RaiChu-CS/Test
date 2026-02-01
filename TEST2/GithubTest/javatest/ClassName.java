@@ -6,5 +6,6 @@ public class ClassName {
         int y = 2;
         int z = x + y;
         System.out.println("Sum: " + z);
+
     }
 }
